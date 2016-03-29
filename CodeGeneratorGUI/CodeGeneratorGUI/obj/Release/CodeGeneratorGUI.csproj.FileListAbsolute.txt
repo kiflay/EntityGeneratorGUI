@@ -1,0 +1,9 @@
+F:\CodeGeneratorGUI\CodeGeneratorGUI\bin\Release\CodeGeneratorGUI.exe.config
+F:\CodeGeneratorGUI\CodeGeneratorGUI\bin\Release\CodeGeneratorGUI.exe
+F:\CodeGeneratorGUI\CodeGeneratorGUI\bin\Release\CodeGeneratorGUI.pdb
+F:\CodeGeneratorGUI\CodeGeneratorGUI\obj\Release\CodeGeneratorGUI.csprojResolveAssemblyReference.cache
+F:\CodeGeneratorGUI\CodeGeneratorGUI\obj\Release\CodeGeneratorGUI.Form1.resources
+F:\CodeGeneratorGUI\CodeGeneratorGUI\obj\Release\CodeGeneratorGUI.Properties.Resources.resources
+F:\CodeGeneratorGUI\CodeGeneratorGUI\obj\Release\CodeGeneratorGUI.csproj.GenerateResource.Cache
+F:\CodeGeneratorGUI\CodeGeneratorGUI\obj\Release\CodeGeneratorGUI.exe
+F:\CodeGeneratorGUI\CodeGeneratorGUI\obj\Release\CodeGeneratorGUI.pdb
